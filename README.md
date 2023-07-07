@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Motivation
 - 💬 Ask me about Anything
 - 📫 How to reach me: Discord : CookyNdi#6521
-- 😄 Pronouns: Cooky like cookie
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: idk lol
 
