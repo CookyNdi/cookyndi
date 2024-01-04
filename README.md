@@ -28,7 +28,7 @@ I <span title="Suichan">LOVE</span> watching Anime, playing chil <span title="Os
 [![Express](https://img.shields.io/badge/express-eaeaea?style=flat-square&logo=express&logoColor=000)](https://expressjs.com/)
 [![Sequelize](https://img.shields.io/badge/sequelize-242526?style=flat-square&logo=sequelize&logoColor=52b0e7)](https://sequelize.org/)
 [![Prisma](https://img.shields.io/badge/prisma-ffffff?style=flat-square&logo=prisma&logoColor=2d3748)](https://www.prisma.io/)
-[![nest](https://img.shields.io/badge/nest.js-0e0e10?style=flat-square&logo=nestjs&logoColor=e0234e)](https://nestjs.com/)
+<!-- [![nest](https://img.shields.io/badge/nest.js-0e0e10?style=flat-square&logo=nestjs&logoColor=e0234e)](https://nestjs.com/)-->
 [![next](https://img.shields.io/badge/next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)](https://nextjs.org/)
 [![react](https://img.shields.io/badge/react-23272f?style=flat-square&logo=react&logoColor=168fb6)](https://react.dev/)
 [![vite](https://img.shields.io/badge/vite-1e1e20?style=flat-square&logo=vite&logoColor=5bb1ff)](https://vitejs.dev/)
