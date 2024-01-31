@@ -17,7 +17,7 @@ I <span title="Suichan">LOVE</span> watching Anime, playing chil <span title="Os
 [![CookyNdi pixiv](https://img.shields.io/badge/-pixiv-0096fa?style=flat-square&logo=pixiv&logoColor=fff)](https://www.pixiv.net/en/users/57422378 "CookyNdi's on pixiv")
 
 [![CookyNdi profile visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCookyNdi&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCookyNdi "Total visitors")
-
+<!--
 ## Used Technologies
 
 [![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)](https://html.spec.whatwg.org)
@@ -28,7 +28,7 @@ I <span title="Suichan">LOVE</span> watching Anime, playing chil <span title="Os
 [![Express](https://img.shields.io/badge/express-eaeaea?style=flat-square&logo=express&logoColor=000)](https://expressjs.com/)
 [![Sequelize](https://img.shields.io/badge/sequelize-242526?style=flat-square&logo=sequelize&logoColor=52b0e7)](https://sequelize.org/)
 [![Prisma](https://img.shields.io/badge/prisma-ffffff?style=flat-square&logo=prisma&logoColor=2d3748)](https://www.prisma.io/)
-<!-- [![nest](https://img.shields.io/badge/nest.js-0e0e10?style=flat-square&logo=nestjs&logoColor=e0234e)](https://nestjs.com/)-->
+[![nest](https://img.shields.io/badge/nest.js-0e0e10?style=flat-square&logo=nestjs&logoColor=e0234e)](https://nestjs.com/)
 [![next](https://img.shields.io/badge/next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)](https://nextjs.org/)
 [![react](https://img.shields.io/badge/react-23272f?style=flat-square&logo=react&logoColor=168fb6)](https://react.dev/)
 [![vite](https://img.shields.io/badge/vite-1e1e20?style=flat-square&logo=vite&logoColor=5bb1ff)](https://vitejs.dev/)
@@ -47,7 +47,7 @@ I <span title="Suichan">LOVE</span> watching Anime, playing chil <span title="Os
 ![Static Badge](https://img.shields.io/badge/npm-31a8ff?style=flat-square&logo=npm&logoColor=fff&label=package%20manager)
 ![Static Badge](https://img.shields.io/badge/pnpm-31a8ff?style=flat-square&logo=pnpm&logoColor=fff&label=package%20manager)
 ![Static Badge](https://img.shields.io/badge/nodemon-31a8ff?style=flat-square&logo=nodemon&logoColor=fff&label=tools)
-
+-->
 
 ## What am I doing on GitHub?
 
