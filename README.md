@@ -53,8 +53,8 @@ I <span title="Suichan">LOVE</span> watching Anime, playing chil <span title="Os
 
 <div style="display:flex;">
   
-![Anurag's GitHub stats](https://github-readme-stats-cookyndi.vercel.app/api?username=cookyndi&theme=transparent)
-![Top Langs](https://github-readme-stats-cookyndi.vercel.app/api/top-langs/?username=cookyndi&layout=compact&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-cookyndis-projects.vercel.app/api?username=cookyndi&theme=transparent)
+![Top Langs](https://github-readme-stats-cookyndis-projects.vercel.app/api/top-langs/?username=cookyndi&layout=compact&theme=transparent)
 </div>
 
 
